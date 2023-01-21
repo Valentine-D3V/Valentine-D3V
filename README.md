@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi i'm VALENTINE! 👋
+
+just your mear handsome coder who loves anime and a nice hot cup of coffee in the morning.
+
+![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
+
+
+
 
 <!--
 **Valentine-D3V/Valentine-D3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
