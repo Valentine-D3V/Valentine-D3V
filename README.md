@@ -1,6 +1,6 @@
 ### Hi i'm VALENTINE! 👋
 
-just your mear handsome coder who loves anime and a nice hot cup of coffee in the morning.
+Just your mear handsome coder who loves anime and a nice hot cup of coffee in the morning.
 
 ![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
 
