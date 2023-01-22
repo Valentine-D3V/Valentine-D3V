@@ -4,6 +4,8 @@ Just your mear handsome coder who loves anime and a nice hot cup of coffee in th
 
 ![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valentine-D3V&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 
 
 
