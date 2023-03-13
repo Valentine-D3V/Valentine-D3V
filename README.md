@@ -5,7 +5,7 @@ Just your mear handsome coder who loves anime and a nice hot cup of coffee in th
 - 🔭 I’m currently working on becoming a <b>Full Stack Developer</b>. 
 - 🌱 I’m currently learning <b>Express.js</b> and <b>React</b>.
 - 💬 Ask me about <b>Web Accessibility</b>
-- ⚡ Fun fact: I love photography and watching cooking shows.
+- ⚡ Fun fact: I have Bachelor's Degree in business, I love photography and watching cooking shows.
 
 ![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
 
