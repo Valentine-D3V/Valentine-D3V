@@ -23,6 +23,7 @@ Just your mear handsome coder who loves anime and a nice hot cup of coffee in th
 <h2>Back-End:</h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <!--
 **Valentine-D3V/Valentine-D3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
